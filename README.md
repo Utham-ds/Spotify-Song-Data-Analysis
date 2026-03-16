@@ -50,7 +50,6 @@ cd Spotify-Song-Data-Analysis
 
 pip install pandas numpy matplotlib seaborn scikit-learn jupyter
 
-jupyter notebook
 ```
 ## Author
 Utham Kumar Mohanlal
